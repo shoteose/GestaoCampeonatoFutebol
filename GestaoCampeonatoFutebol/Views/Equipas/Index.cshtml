@@ -1,0 +1,63 @@
+﻿@model IEnumerable<GestaoCampeonatoFutebol.Models.Equipa>
+
+@{
+    ViewData["Title"] = "Listagem de Equipas";
+}
+
+<h1>Listagem de Equipas</h1>
+<p>
+    <a asp-action="Create">
+        <span>
+            <img src="/Assets/Icons/add.png" height="30" width="30" />
+        </span>
+    </a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clube)
+            </th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Clube.Nome)
+            </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">
+                        <span>
+                            <img src="/Assets/Icons/edit.png" height="30" width="30" />
+                        </span>
+                    </a>
+                </td>
+
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('De certeza que queres apagar @item.Nome ?')">
+                        <span>
+                            <img src="/Assets/Icons/delete.png" height="30" width="30" />
+                        </span>
+                    </a>
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">
+                        <span>
+                            <img src="/Assets/Icons/detalhes.png" height="30" width="30" />
+                        </span>
+                    </a>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

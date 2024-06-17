@@ -1,0 +1,59 @@
+﻿@model GestaoCampeonatoFutebol.Models.Arbitro
+
+@{
+    ViewData["Title"] = "Criar";
+}
+
+<div class=" row">
+    @{
+        if (User.IsInRole("Admin"))
+        {
+            <div class="col-1">
+                <a asp-action="Index" class=" btn btn-light">
+                    <img src="/Assets/Icons/arrowBack.png" width="30" height="30" />
+                </a>
+            </div>
+        }
+        else
+        {
+            <div class="col-1">
+                <a asp-action="Index" asp-controller="Home" class=" btn btn-light">
+                    <img src="/Assets/Icons/arrowBack.png" width="30" height="30" />
+                </a>
+            </div>
+        }
+    }
+
+    <div class="col-9">
+        <h1>@ViewBag.Title</h1>
+    </div>
+</div>
+
+<h4>Arbitro</h4>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Idade" class="control-label"></label>
+                <input asp-for="Idade" class="form-control" />
+                <span asp-validation-for="Idade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn botaoDanger" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

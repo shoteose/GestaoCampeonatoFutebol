@@ -1,0 +1,50 @@
+﻿@model GestaoCampeonatoFutebol.Models.Estadio
+
+@{
+    ViewData["Title"] = $"Detalhes sobre {Model.Nome}";
+}
+
+<div class=" row">
+    @{
+        if (User.IsInRole("Admin"))
+        {
+            <div class="col-1">
+                <a asp-action="Index" class=" btn btn-light">
+                    <img src="/Assets/Icons/arrowBack.png" width="30" height="30" />
+                </a>
+            </div>
+        }
+        else
+        {
+            <div class="col-1">
+                <a asp-action="Index" asp-controller="Home" class=" btn btn-light">
+                    <img src="/Assets/Icons/arrowBack.png" width="30" height="30" />
+                </a>
+            </div>
+        }
+    }
+
+    <div class="col-9">
+        <h1>@ViewBag.Title</h1>
+    </div>
+</div>
+
+<div>
+    <h4>Estadio</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Localizacao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Localizacao)
+        </dd>
+    </dl>
+</div>
+

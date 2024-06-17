@@ -1,0 +1,66 @@
+﻿@model GestaoCampeonatoFutebol.Models.Jogo
+
+@{
+    ViewData["Title"] = "Criar";
+}
+
+<div class=" row">
+    @{
+        if (User.IsInRole("Admin"))
+        {
+            <div class="col-1">
+                <a asp-action="Index" class=" btn btn-light">
+                    <img src="/Assets/Icons/arrowBack.png" width="30" height="30" />
+                </a>
+            </div>
+        }
+        else
+        {
+            <div class="col-1">
+                <a asp-action="Index" asp-controller="Home" class=" btn btn-light">
+                    <img src="/Assets/Icons/arrowBack.png" width="30" height="30" />
+                </a>
+            </div>
+        }
+    }
+
+    <div class="col-9">
+        <h1>@ViewBag.Title</h1>
+    </div>
+</div>
+
+<h4>Jogo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DataHora" class="control-label"></label>
+                <input asp-for="DataHora" class="form-control" />
+                <span asp-validation-for="DataHora" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Equipa Um</label>
+                <select asp-for="EquipaOneId" class ="form-control" asp-items="ViewBag.EquipaOneId"></select>
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Equipa Dois</label>
+                <select asp-for="EquipaTwoId" class ="form-control" asp-items="ViewBag.EquipaTwoId"></select>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Resultado</label>
+                <select asp-for="Resultado" class="form-control" asp-items="ViewBag.Types"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn botaoDanger" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

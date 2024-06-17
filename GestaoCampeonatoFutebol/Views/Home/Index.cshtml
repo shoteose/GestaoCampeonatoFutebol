@@ -1,0 +1,155 @@
+﻿@model HomeIndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Gestão de Campeonatos de Futebol</h1>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            @if (Model.Arbitros.Count() > 0)
+            {
+                <h2>Arbitros</h2>
+                <div class="row">
+                    @foreach (var arbitro in Model.Arbitros)
+                    {
+                        <a asp-controller="Arbitros" asp-action="Details" asp-route-id="@arbitro.Id" class=" nav-link link-dark">
+
+                            <div class="col-md-4">
+                                <div class="card mb-3">
+                                    <div class="card-body">
+                                        <h5 class="card-title">@arbitro.Nome</h5>
+                                        <p class="card-text">Idade: @arbitro.Idade</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    }
+                </div>
+                <hr />
+            }
+
+
+
+            @if (Model.Clubes.Count() > 0)
+            {
+                <h2>Clubes</h2>
+                <div class="row">
+                    @foreach (var clube in Model.Clubes)
+                    {
+                        <a asp-controller="Clubes" asp-action="Details" asp-route-id="@clube.Id" class=" nav-link link-dark">
+                            <div class="col-md-4">
+                                <div class="card mb-3">
+                                    <div class="card-body">
+                                        <h5 class="card-title">@clube.Nome</h5>
+                                        <p class="card-text">Presidente: @clube.Presidente</p>
+                                        <p class="card-text">Estadio: @clube.Estadio.Nome</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    }
+                </div>
+
+                <hr />
+            }
+
+            @if (Model.Equipas.Count() > 0)
+            {
+                <h2>Equipas</h2>
+                <div class="row">
+                    @foreach (var equipa in Model.Equipas)
+                    {
+                        <a asp-controller="Equipas" asp-action="Details" asp-route-id="@equipa.Id" class=" nav-link link-dark">
+
+                            <div class="col-md-4">
+                                <div class="card mb-3">
+                                    <div class="card-body">
+                                        <h5 class="card-title">@equipa.Nome</h5>
+                                        <p class="card-text">Clube: @equipa.Clube.Nome</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    }
+                </div>
+                <hr />
+            }
+
+
+            @if (Model.Estadios.Count() > 0)
+            {
+                <h2>Estadios</h2>
+                <div class="row">
+
+                    @foreach (var estadio in Model.Estadios)
+                    {
+                        <a asp-controller="Estadios" asp-action="Details" asp-route-id="@estadio.Id" class=" nav-link link-dark">
+
+                            <div class="col-md-4">
+                                <div class="card mb-3">
+                                    <div class="card-body">
+                                        <h5 class="card-title">@estadio.Nome</h5>
+                                        <p class="card-text">Localização: @estadio.Localizacao</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    }
+                </div>
+                <hr />
+            }
+
+            @if (Model.Jogadores.Count() > 0)
+            {
+                <h2>Jogadores</h2>
+                <div class="row">
+                    @foreach (var jogador in Model.Jogadores)
+                    {
+                        <a asp-controller="Jogadores" asp-action="Details" asp-route-id="@jogador.Id" class=" nav-link link-dark">
+                            <div class="col-md-4">
+                                <div class="card mb-3">
+                                    <div class="card-body">
+                                        <h5 class="card-title">@jogador.Nome</h5>
+                                        <p class="card-text">Idade: @jogador.Idade</p>
+                                        <p class="card-text">Equipa: @jogador.Equipa.Nome</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    }
+                </div>
+                <hr />
+            }
+
+
+            @if (Model.Jogos.Count() > 0)
+            {
+                <h2>Jogos</h2>
+                <div class="row">
+                    @foreach (var jogo in Model.Jogos)
+                    {
+                        <a asp-controller="Jogos" asp-action="Details" asp-route-id="@jogo.Id" class=" nav-link link-dark">
+                            <div class="col-md-4">
+                                <div class="card mb-3">
+                                    <div class="card-body">
+                                        <h5 class="card-title">@jogo.EquipaOne.Nome vs @jogo.EquipaTwo.Nome</h5>
+                                        <p class="card-text">Data e Hora: @jogo.DataHora</p>
+                                        <p class="card-text">Resultado: @jogo.Resultado</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                    }
+                </div>
+                <hr />
+            }
+        </div>
+    </div>
+</div>
+
