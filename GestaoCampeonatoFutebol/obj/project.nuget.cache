@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wxmIdrOUYh9mw6FbWOhkXnhipWfCWWEHqHtzQOr3OF20+KyzATMZ+hw2hojlCgw5WX6Zc5ytjzWxT/BCOBb0gw==",
+  "dgSpecHash": "JyWbdpGREA1G6T8IzAPM9r5fq5oX/F7cwEKuuB/N3Ohx4w0byQ2GLqh437t2+ukifKT9mudh7VTHecWmcaiRlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Paulo Novo\\source\\repos\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj",
+  "projectFilePath": "C:\\Users\\Paulo Novo\\Documents\\GitHub\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paulo Novo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Paulo Novo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo Novo\\source\\repos\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj": {}
+    "C:\\Users\\Paulo Novo\\Documents\\GitHub\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo Novo\\source\\repos\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj": {
+    "C:\\Users\\Paulo Novo\\Documents\\GitHub\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo Novo\\source\\repos\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo Novo\\Documents\\GitHub\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj",
         "projectName": "GestaoCampeonatoFutebol",
-        "projectPath": "C:\\Users\\Paulo Novo\\source\\repos\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj",
+        "projectPath": "C:\\Users\\Paulo Novo\\Documents\\GitHub\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol.csproj",
         "packagesPath": "C:\\Users\\Paulo Novo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo Novo\\source\\repos\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\obj\\",
+        "outputPath": "C:\\Users\\Paulo Novo\\Documents\\GitHub\\GestaoCampeonatoFutebol\\GestaoCampeonatoFutebol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo Novo\\AppData\\Roaming\\NuGet\\NuGet.Config",

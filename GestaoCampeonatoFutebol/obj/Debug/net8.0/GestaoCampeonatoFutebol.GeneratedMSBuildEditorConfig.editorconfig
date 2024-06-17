@@ -17,199 +17,199 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GestaoCampeonatoFutebol
 build_property.RootNamespace = GestaoCampeonatoFutebol
-build_property.ProjectDir = C:\Users\Paulo Novo\source\repos\GestaoCampeonatoFutebol\GestaoCampeonatoFutebol\
+build_property.ProjectDir = C:\Users\Paulo Novo\Documents\GitHub\GestaoCampeonatoFutebol\GestaoCampeonatoFutebol\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Paulo Novo\source\repos\GestaoCampeonatoFutebol\GestaoCampeonatoFutebol
+build_property.MSBuildProjectDirectory = C:\Users\Paulo Novo\Documents\GitHub\GestaoCampeonatoFutebol\GestaoCampeonatoFutebol
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Accounts/Editar.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Accounts/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRWRpdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Accounts/Index.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Accounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Arbitros/Create.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Arbitros/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJiaXRyb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Arbitros/Details.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Arbitros/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJiaXRyb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Arbitros/Edit.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Arbitros/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJiaXRyb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Arbitros/Index.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Arbitros/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJiaXRyb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Clubes/Create.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Clubes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Clubes/Details.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Clubes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Clubes/Edit.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Clubes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Clubes/Index.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Clubes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Equipas/Create.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Equipas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Equipas/Details.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Equipas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Equipas/Edit.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Equipas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Equipas/Index.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Equipas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Estadios/Create.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Estadios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Estadios/Details.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Estadios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Estadios/Edit.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Estadios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Estadios/Index.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Estadios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Home/AdminDashboard.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Home/AdminDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkRhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Home/Index.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Home/Privacy.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogadores/Create.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogadores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogadores/Details.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogadores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogadores/Edit.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogadores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogadores/Index.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogadores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogos/Create.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogos/Details.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogos/Edit.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogos/Index.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Jogos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Shared/Error.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/_ViewImports.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/_ViewStart.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Paulo Novo/source/repos/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Shared/_Layout.cshtml]
+[C:/Users/Paulo Novo/Documents/GitHub/GestaoCampeonatoFutebol/GestaoCampeonatoFutebol/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9ophfagglm
